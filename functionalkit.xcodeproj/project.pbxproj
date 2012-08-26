@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		47230558103D02BF005CE8EA /* PLBlocks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47230557103D02BF005CE8EA /* PLBlocks.framework */; };
-		47230559103D02BF005CE8EA /* PLBlocks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47230557103D02BF005CE8EA /* PLBlocks.framework */; };
 		47AED0E7103CD4680087681D /* FKBlocksTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 47CD5602103CCE2000E69A25 /* FKBlocksTests.m */; };
 		47AED1B7103CE1A60087681D /* FKBlocks.m in Sources */ = {isa = PBXBuildFile; fileRef = 47AED1B6103CE1A60087681D /* FKBlocks.m */; };
 		47AED1B8103CE1A60087681D /* FKBlocks.m in Sources */ = {isa = PBXBuildFile; fileRef = 47AED1B6103CE1A60087681D /* FKBlocks.m */; };
@@ -168,7 +167,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E23DBF6D0F4E2817005C8EDA /* UIKit.framework in Frameworks */,
-				47230559103D02BF005CE8EA /* PLBlocks.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
